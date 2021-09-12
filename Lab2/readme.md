@@ -1,4 +1,4 @@
-## Your Name / Date
+## Oluwatomisin Fayomi / 9/11/2021
 
 ## Executive Summary 
 In this chapter I learned about the different types of hardware that make up a computer and how they all do different tasks. Most types of computer hardware can be broken up into two parts, input and output. An input device on a computer is a mouse, keyboard, or touchscreen and an output device would be a display, a printer or a speaker. Another type of computer hardware is the internal parts of a computer like a cpu, ram, a hard drive and more. The internal parts of a computer make it work and are an important part of its operation. They also discussed Moore's law and how every two years computing power will double for the same price point. Then they talked about how nowadays smartphones are growing in popularity and one of the best points about them is they are mobile and you can do almost everything you can do on a computer.
@@ -21,7 +21,9 @@ A truth table shows every output for every possible combination of inputs. The A
 The purpose of IEEE is advancing technology for the benefit of humanity. They focus on ethics because they want to foster awarness on ethical issues, promote ethical behavior among those working in fields of IEEE interest and create a world in which engineers and scientist are respected for exemplary ethical behavior. 
 ## Data Representation
 ### Decimal, Binary and Hexadecimal
+Decimal is the number in its normal for like 169, binary is the number in 1s and 0s which would be 10101001 and hexadecimal is similar to binary in the highest number but unlike binary has a base of 16 and only uses 2 numbers.
 ### Hexadecimal Color Representation
+The color #ab00ff is 171, 0, 255 and is a bright purple. This color would be problematic in a website because if it was used as the text or the background it would hard to make out the words and strain the users eyes and make them want to leave. When choosing a color you should make sure it isn't too bright is easy to read on if it's the background and goes with a theme.
 
 ## Conclusion
 Include your conclusion here...
