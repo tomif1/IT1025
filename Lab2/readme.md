@@ -26,4 +26,4 @@ Decimal is the number in its normal for like 169, binary is the number in 1s and
 The color #ab00ff is 171, 0, 255 and is a bright purple. This color would be problematic in a website because if it was used as the text or the background it would hard to make out the words and strain the users eyes and make them want to leave. When choosing a color you should make sure it isn't too bright is easy to read on if it's the background and goes with a theme.
 
 ## Conclusion
-Include your conclusion here...
+In this chapter I learned about the different types of hardware in a computer that can be categorized by input and output and the other types that make up the internal parts of a computer like ram, cpu, ssd and hard drive. I also learned the differences between hard and ssd and how much better a ssd is compared to a hard drive. I was able to find out about logic gates and how they generally work and how to convert from decimal to binary and decimal to hexidecimal.
