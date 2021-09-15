@@ -10,12 +10,14 @@ Application software is used to accomplish a specific goal, utility software con
 The purpose of ERP to bring together an entire organization within one program. It uses a central database that is implemented throughout the entire orginization. An example of a few types of ERP software are NetSuite, Tipalti, and Rossum. 
 ## Virtualization
 ### Problems Solved by Virtualization
+A common IT problem solved by virtualization was that companies could partition their servers and run legacy apps on multiple operating system types and versions. This allowed servers to be run more efficiently.
 ### Role of Hypervisor
-
+The role of a hypervisor is to sepereate the physical resources from the virtual enviroments. An example of a hypervisor can be a laptop or can be directly installed on hardware like a server.
 ## Python
 ### Pseudo-Code Nature of Python
+Pseudo-code means the plain language description of the steps in an algorithim or another system. What they mean by "pseudo-code nature of Python?" is that it is easy to understand what is being run in the code, even if you are not sure how to write in that coding language. 
 ### Interpreted vs. Compiled Language
-
+A compiled language is converted from the source language into a language that can read by your computer like binary, by using a compiler with various flags and options. On the other hand an interpreted language does not need to be compiled to binary, you can just run the program directly from the source code.
 ## Career Exploration
 ### Handshake
 ### Bureau of Labor Statistics
