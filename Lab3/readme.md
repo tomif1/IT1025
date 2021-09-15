@@ -1,12 +1,13 @@
-## Your Name / Date
+## Oluwatomisin Fayomi / 9/15/21
 
 ## Executive Summary 
-Include your executive summary here...
+In this chapter I learned about the software that makes a computer run. They talked about the different types of software which can be categorized by Operating System, like Microsoft Windows and MacOs, and the other type is Application Software, like video games and word proccesors. I learned that Microsoft success is because of their productivity software like word processing, spreadsheet and presentation. I also learned that when you purchase a software you own a license to the product, which means you can't resell it and the owner of the software takes steps to protect themselves. I also learned about cloud computing and how it allows for the user to access the files from any computer as long as it has an internet connection.
 
 ## Software
 ### Types of Software
+Application software is used to accomplish a specific goal, utility software consists of programs that allow you to fix or modify your computer in some way and an operating system is the first thing loaded in when the computer starts and it manages all the programs in the computer. An example of application software is a video game, an example of utility software is antivirus software, and an example of operating aystem is Microsoft Windows. 
 ### ERP
-
+The purpose of ERP to bring together an entire organization within one program. It uses a central database that is implemented throughout the entire orginization. An example of a few types of ERP software are NetSuite, Tipalti, and Rossum. 
 ## Virtualization
 ### Problems Solved by Virtualization
 ### Role of Hypervisor
