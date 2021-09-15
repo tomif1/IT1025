@@ -20,10 +20,15 @@ Pseudo-code means the plain language description of the steps in an algorithim o
 A compiled language is converted from the source language into a language that can read by your computer like binary, by using a compiler with various flags and options. On the other hand an interpreted language does not need to be compiled to binary, you can just run the program directly from the source code.
 ## Career Exploration
 ### Handshake
+Handshake is an easy way to connect to employers and find work while in school. It's an easy way to find work by finding what you are looking for and tailoring their search to fit your needs.
 ### Bureau of Labor Statistics
+The Bureau of Labor Statisitcs  is a great website to see the requirements of any specific job and to see the average pay. It also shows youthe projected number of new jobs and prjected growth. It also shows you whether or not there is on the job training and if you click on that job it gives you a summary of the job and more details.
 ### Certifications
+I read about the CompTia certificate and learned the benefits of this one compared to the others. It features both a hands on, performance-based questions and multiple-choice questions.
 ### Certificates and Degrees
+A certificate I am interested is Web Application Development because I have had the chance to build websites before and I would like to learn how to do it better than I already can.
 ### Co-ops / Internships
+To be co-op ready you have to upload your resume for final revisions and approval by a Career Coach at Handshake, work with an Employer Relations Specialist to apply and interview with approved co-op placements and complete and sign a "Cooperative Education Agreement" form and register for college credit
 ### Industry Associations / Student Organizations
 
 ## Conclusion
