@@ -12,7 +12,7 @@ The purpose of ERP to bring together an entire organization within one program. 
 ### Problems Solved by Virtualization
 A common IT problem solved by virtualization was that companies could partition their servers and run legacy apps on multiple operating system types and versions. This allowed servers to be run more efficiently.
 ### Role of Hypervisor
-The role of a hypervisor is to sepereate the physical resources from the virtual enviroments. An example of a hypervisor can be a laptop or can be directly installed on hardware like a server.
+The role of a hypervisor is to separate the physical resources from the virtual enviroments. An example of a hypervisor can be a laptop or can be directly installed on hardware like a server.
 ## Python
 ### Pseudo-Code Nature of Python
 Pseudo-code means the plain language description of the steps in an algorithim or another system. What they mean by "pseudo-code nature of Python?" is that it is easy to understand what is being run in the code, even if you are not sure how to write in that coding language. 
@@ -28,9 +28,8 @@ I read about the CompTia certificate and learned the benefits of this one compar
 ### Certificates and Degrees
 A certificate I am interested is Web Application Development because I have had the chance to build websites before and I would like to learn how to do it better than I already can.
 ### Co-ops / Internships
-To be co-op ready you have to upload your resume for final revisions and approval by a Career Coach at Handshake, work with an Employer Relations Specialist to apply and interview with approved co-op placements and complete and sign a "Cooperative Education Agreement" form and register for college credit
+To be co-op ready you have to upload your resume for final revisions and approval by a Career Coach at Handshake, work with an Employer Relations Specialist to apply and interview with approved co-op placements and complete and sign a "Cooperative Education Agreement" form and register for college credit.
 ### Industry Associations / Student Organizations
-
+Membership in the Collegiate Cyber Defense Competition would be benefitial because students get to assume administrative and protective duties for a commercial network. Each team gets the same software and hardware and is scored on their ability to detect outside threats. 
 ## Conclusion
-
-Include your professional conclusion here...
+In this chpater I learned about software and the different types of software and how it operates in a computer. I also learned about virtualization and how it works to improve the quality of a server. I also learned how a hypervisor works to separate the physical resources from the virtual environments. I learned the difference between interpreted and compiled language and how python is an interpreted language and does not need to be compiled. I was able to see different ways to find jobs and to see requirements for jobs using BLS. Then I had the chance to learn about different certificates and degrees and you can see what you can learn from completing that certificate.
