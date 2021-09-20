@@ -11,8 +11,9 @@ A variable is a value that can change; myAge
 ### Assignment statement: 
 A way to assign a value to a variable; myAge = 19
 ### Function: 
-A function is a block of code that is run when it is called; def calculateBitrthAge():
-                                                                birthAge = 2021 - myAge
+A function is a block of code that is run when it is called
+def calculateBitrthAge():
+     birthAge = 2021 - myAge
 ### Three data types: 
 String, integers, and float
 An example of a string is 
