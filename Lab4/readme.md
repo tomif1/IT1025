@@ -25,7 +25,9 @@ An example of a float is
 ## Graphics
 
 ### Raster vs. Vector Graphics
+Raster images are made up of tiny little pixels so when you zoom into the photo it loses quality, while vector images are rendered using a special form of geometry so when you zoom in it does not lose quality.
 ### Lossless vs. Lossy Compression
+Lossless compression means that all the data from the original file is preserved, while lossy compression on the other hand removes some data from the original file so that it saves with a reduced file size.
 ### File Formats
 ### File Properties
 
