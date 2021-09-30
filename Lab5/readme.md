@@ -29,20 +29,28 @@ A single point of failure is if a switch or central hub would fail then all comp
 #### Infrastrucutre vs. Wireless Mesh
 The infrastructure topology has wired connections and has a wireless access point connected to the switch by a cable.
 ### Network Design
+My design is a mesh topology that has two computers a router a wireless access point that is connected to a laptop. Everything in system is connected which is a mesh topology and is the most efficient because if one connection breaks, the system keeps on running.
 ### NSA/CSS
-
+The NSA's role in U.S. cybersecurity is to prevents and eradicates threats to U.S. national security systems.
 ## Cybersecurity and Encryption
 
 ### Information Systems Security
 
 #### Security Triad
+In an online chat at amazon the security triad could be applied to each part because the chat would need confidentiality, and restrict access to those who aren't allowed to see it. Integrity would be that the user doesn't lie and is truthful in their problems so that they can be fixed, and finally availability which means that when the user has a problem it doesn't take long for the user to find someone to help them with their problem.
 #### Authentication
+Logging into your phone, laptop and bank account all require authentication to access them. They can be converted to multi-factor authentication by adding another step or a second password so that it takes multiple steps to gain access.
 #### ACL and RBAC
+Access Control List main problem is thateach information resource is managed separately, so if someone wanted to add or remove a user to a large set of information resources, it would be quite hard. In Role-Based Access Control users are assigned roles and then those roles are assigned the access, which simplifies administration.
 #### Ciphertext, Public Key and Private Key
+Ciphertext is the encoded text that is sent to the the recipient and then is decoded. Public key is used to send an encrypted message by obtaining the public key, encode it and send it. The private key is used by the recepient to decode the message.
 #### Public Key Cryptography
-
+It is the most important because it was an easy way to encrypt messages where if someone were to intercept the message it wouldn't be possible for them to decode it, and a simple encoded method can still be used today.
 ### Cryptography
 #### Encryption
+The encryption moves all the letters from the inteded word a specified distance in the same direction so that only the people who know the distance can correctly translate the message.
+####### Originial: hello world
+####### Encoded: dahhk sknhz
 #### Frequency Fingerprint
 #### Polyalphabetic Cipher
 #### Polyalphabetic Example
