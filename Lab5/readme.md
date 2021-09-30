@@ -1,7 +1,7 @@
-## Your Name / Date
+## Oluwatomisin Fayomi / 9/30/2021
 
 ## Executive Summary 
-Include your executive summary here...
+In this chapter you learn about topologies and how they work and the benefits of each type. You also learn how to use Lucidchart to make program diagrams and to topologies. Also they teach you terms of data transmission and the differences between a switch, a router and a hub. Then you go on to learn about cryptograpghy and the different ways to encode a message and how it is effective. You also learn about the security triad which are three things that are important to any organization's security infrastructure.
 
 ## Lucidchart
 In Lucidchart I learned how to create diagrams and to make a program example. I also learned how each different part works in a diagram and I learned the basics of using Lucidchart and how to export a diagram.
@@ -49,14 +49,15 @@ It is the most important because it was an easy way to encrypt messages where if
 ### Cryptography
 #### Encryption
 The encryption moves all the letters from the inteded word a specified distance in the same direction so that only the people who know the distance can correctly translate the message.
-####### Originial: hello world
-####### Encoded: dahhk sknhz
+* Originial: hello world
+* Encoded: dahhk sknhz
 #### Frequency Fingerprint
+The frequency fingerprint detects the frequency of a letter in the given selection and the more often it occurs the higher the frequency bar of that letter is.
 #### Polyalphabetic Cipher
+A polyalphabetic cipher uses a word in which the letters are converted into numbers and applied throughout the message, which would result in multiple shifts instead of just one making it harder to decode the hidden message.
 #### Polyalphabetic Example
-
+My messsage was "Today is Thursday it could rain" and I used a shift word of game. The result I got was "apqff jf yovexkbl nadbzse efpo". Which goes to show how much harder it is to decode a polyalphabetic exploration encryption.
 #### Brute-Force
-
+A brute-force attack tries every possible decryption key for a cipher, and with Caesar ciphers it usually always works and then anyone can read the decoded message.
 ## Conclusion
-Include your professional conclusion here...
-
+In this lab I learned about the different types of encryptions that can be used like polyalphabetic which uses a word, in which the letters of that word are changed into numbers and applied thorughout the entire message. I also learned about topologies and the benefits and disadvantages of each type, and how the mesh topology is the best type because if on device goes offline, or a connection breaks everything still runs like it's supposed to. I also learned how to use Lucidchart to make program diagrams and topologies and how to export what you created.
