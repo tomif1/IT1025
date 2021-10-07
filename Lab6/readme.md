@@ -20,8 +20,9 @@ Layers are important to changing technology because when you change one layer it
 The types of applications that run on an application layer are HTTP, FTP, POP3, SMTP, and SNMP.
 ## Internet Security
 ### HTTP and Client-Server Model
+HTTP is the protocol used for viewing web pages on the internet and it supports the clients server model because it partitions tasks or workloads between the providers of a resource or service, called servers, and service requesters, called clients.
 ### Protocols for Secure HTTP
-
+Secure HTTP uses Secure Socket Layers or SSL protects data by using a public key encryption to secure data and uses a SSL certificate to authenticate the identity of the website. Another one is Transport Layer Security which is the succesor to SSL and authenticates the server, client and encrypts the data.
 ## Securing your Web Browser
 ### Reasons to Secure Browser
 ### Risk Explained
