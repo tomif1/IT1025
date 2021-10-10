@@ -25,10 +25,13 @@ HTTP is the protocol used for viewing web pages on the internet and it supports 
 Secure HTTP uses Secure Socket Layers or SSL protects data by using a public key encryption to secure data and uses a SSL certificate to authenticate the identity of the website. Another one is Transport Layer Security which is the succesor to SSL and authenticates the server, client and encrypts the data.
 ## Securing your Web Browser
 ### Reasons to Secure Browser
+You should secure your browser because it can lead quickly to a variety of computer problems caused by anything from spyware being installed without your knowledge to intruders taking control of your computer.
 ### Risk Explained
-
+One of the risks which is that web page addresses can be disguised or take you to an unexpected site which can install malware on your device and damage it
 ## Internet Programming
 ### World Wide Web Consortium
+ Tim Berners-Lee is the inventor of the World Wide Web and Director and he created the W3C to lead the World Wide Web to its full potential by developing protocols and guidelines that ensure the long-term growth of the Web.
+ The standard that I chose was web of devices and it is important because of it focuses on technologies to enable Web access anywhere, anytime, using any device. 
 ### HTML5 and CSS
 ### HTML and XML
 
