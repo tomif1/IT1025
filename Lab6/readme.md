@@ -1,8 +1,7 @@
-## Oluwatomisin Fayomi / Date
+## Oluwatomisin Fayomi / 10/10/2021
 
 ## Executive Summary 
-Include your executive summary here...
-
+This chapter teaches you about website address and how IP's work with them. They also teach you about layers in a computer program and the different types of applications that run on those layers. They teach you about http and https and the difference between those protocols. Then they show you the resons to secure your browser and then show you how to build a website using html and css and how they work to build a website.
 ## Internet Architecture
 ### Internet Protocol
 #### IP Address
@@ -43,6 +42,5 @@ XML differs from HTML because even though it is a markup language XML doesn't ac
 ### default page: no file path provided
 ### parameters: result of search
 ### anchor: specific location on a page
-
 ## Conclusion
-Include your conclusion here...
+In this chapter I learned about IP addresses and how TCP and IP work together to create a vitrual port. I also learned about the different application layers and what applications that run on each layer. I learned that https is a more secure protocol than http and why you should secure your browsers. Then I learned how to build a website using html and css and I learned their specific function in creating a webpage.
