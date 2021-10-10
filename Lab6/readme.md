@@ -33,9 +33,16 @@ One of the risks which is that web page addresses can be disguised or take you t
  Tim Berners-Lee is the inventor of the World Wide Web and Director and he created the W3C to lead the World Wide Web to its full potential by developing protocols and guidelines that ensure the long-term growth of the Web.
  The standard that I chose was web of devices and it is important because of it focuses on technologies to enable Web access anywhere, anytime, using any device. 
 ### HTML5 and CSS
+I used html to create the basics for the website and used css to format the website.
 ### HTML and XML
-
+XML differs from HTML because even though it is a markup language XML doesn't actually do anything and was designed to be self descriptive.
 ## Components of a URL
+### scheme: https
+### domain: www.amazon.com
+### top level domain: .edu
+### default page: no file path provided
+### parameters: result of search
+### anchor: specific location on a page
 
 ## Conclusion
 Include your conclusion here...
