@@ -1,4 +1,4 @@
-## Your Name / Date
+## Oluwatomisin Fayomi / 10/19/2021
 
 ## Executive Summary 
 In this lab they teach you about data, information and knowledge and they teach you about the different parts of a database. Then you get to practice how to use SQL to organize databases and learn about SQL injections. Then you learn about the code of ethics and how it works and how a trademark protects your intelectual property.
